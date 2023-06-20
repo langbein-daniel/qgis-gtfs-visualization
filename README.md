@@ -14,7 +14,7 @@
 
 * GTFS data from https://www.delfi.de/
 * Filtered with https://github.com/ipeaGIT/gtfstools to bounding box (11.0 - 11.5, 49.0 - 49.5)
-* Deleted `shapes.txt` as this file was invalid (https://github.com/ipeaGIT/gtfstools/issues/71)
+* Deleted `transfers.txt` as this file was invalid (https://github.com/ipeaGIT/gtfstools/issues/71)
 
 In QGIS:
 
