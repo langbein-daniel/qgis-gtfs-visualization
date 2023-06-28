@@ -7,7 +7,7 @@
 
 * Install QGIS
 * Install `python-pandas`
-* Install Arial font (`ttf-ms-fonts`)
+* Install Arial font. On Arch Linux: `ttf-ms-fonts`
 * In QGIS, install the `GTFS-GO` plugin
 
 ## Example Project
